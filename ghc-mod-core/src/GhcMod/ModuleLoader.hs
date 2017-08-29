@@ -41,6 +41,7 @@ module GhcMod.ModuleLoader
 
 import           Control.Monad.State.Strict hiding (put,get,modify,gets)
 import qualified Data.Generics                     as SYB
+import Data.Generics (Proxy(..), TypeRep, typeRep, typeOf) 
 import           Data.Dynamic
 import qualified Data.IntervalMap.FingerTree       as IM
 import qualified Data.Map                          as Map
