@@ -33,7 +33,7 @@ Build-Type:             Custom
 
 Custom-Setup
   Setup-Depends:         base
-                       , Cabal >= 1.18 && < 1.25
+                       , Cabal >= 2.0 && < 2.1
                        , containers
                        , filepath
                        , directory
