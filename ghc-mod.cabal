@@ -185,7 +185,7 @@ Library
 
                       , base                 < 4.11 && >= 4.6.0.1
                       , djinn-ghc            < 0.1  && >= 0.0.2.2
-                      , extra                < 1.6  && >= 1.4
+                      , extra                < 1.7  && >= 1.4
                       , fclabels             < 2.1  && >= 2.0
                       , ghc-paths            < 0.2  && >= 0.1.0.9
                       , ghc-syb-utils        < 0.3  && >= 0.2.3
@@ -193,7 +193,7 @@ Library
                       , hlint                < 2.1  && >= 2.0.8
                       , monad-control        < 1.1  && >= 1
                       , monad-journal        < 0.8  && >= 0.4
-                      , optparse-applicative < 0.14 && >= 0.13.0.0
+                      , optparse-applicative < 0.15 && >= 0.13.0.0
                       , pipes                < 4.4  && >= 4.1
                       , safe                 < 0.4  && >= 0.3.9
                       , semigroups           < 0.19 && >= 0.10.0
